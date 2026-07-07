@@ -1,0 +1,12 @@
+service: fda_calendar
+schema_version: "1.0"
+ttl_hours: 72
+
+# Only show events between today and today+horizon_days.
+horizon_days: 180
+top_n: 30
+
+# Curated upcoming catalysts (maintained by hand — see catalysts.yaml).
+catalysts_file: catalysts.yaml
+
+feed_url: "https://HunHospak.github.io/fda_calendar/fda_calendar.json"

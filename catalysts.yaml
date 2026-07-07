@@ -1,0 +1,21 @@
+# Upcoming FDA catalysts — maintained by hand.
+# Sources: FDA advisory-committee calendar (fda.gov/advisory-committees/advisory-committee-calendar)
+# and company IR / PDUFA target action dates.
+#
+# Each event:
+#   ticker:     optional stock symbol
+#   drug:       program / drug name
+#   event_type: PDUFA | AdComm | Readout | Other
+#   date:       YYYY-MM-DD
+#   note:       short description
+#
+# Start empty (feed publishes as "partial" until you add real dates). Example format below:
+#
+# events:
+#   - ticker: SRPT
+#     drug: "Example program"
+#     event_type: PDUFA
+#     date: "2026-09-30"
+#     note: "PDUFA target action date"
+
+events: []
