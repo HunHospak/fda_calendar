@@ -1,0 +1,16 @@
+{
+  "service": "fda_calendar",
+  "schema_version": "1.0",
+  "generated_at": "2026-07-07T12:14:03+00:00",
+  "status": "partial",
+  "ttl_hours": 72,
+  "data": {
+    "as_of": "2026-07-07",
+    "horizon_days": 180,
+    "upcoming_count": 0,
+    "upcoming": [],
+    "by_ticker": {},
+    "disclaimer": "Upcoming regulatory catalysts (curated). Informational only, not investment advice."
+  },
+  "notes": "No upcoming catalysts configured in catalysts.yaml."
+}
