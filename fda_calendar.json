@@ -1,11 +1,11 @@
 {
   "service": "fda_calendar",
   "schema_version": "1.0",
-  "generated_at": "2026-07-31T23:40:24+00:00",
+  "generated_at": "2026-08-03T23:46:56+00:00",
   "status": "partial",
   "ttl_hours": 72,
   "data": {
-    "as_of": "2026-07-31",
+    "as_of": "2026-08-03",
     "horizon_days": 180,
     "upcoming_count": 0,
     "upcoming": [],
