@@ -1,11 +1,11 @@
 {
   "service": "fda_calendar",
   "schema_version": "1.0",
-  "generated_at": "2026-11-12T03:20:57+00:00",
+  "generated_at": "2026-11-13T02:53:59+00:00",
   "status": "partial",
   "ttl_hours": 72,
   "data": {
-    "as_of": "2026-11-12",
+    "as_of": "2026-11-13",
     "horizon_days": 180,
     "upcoming_count": 0,
     "upcoming": [],
