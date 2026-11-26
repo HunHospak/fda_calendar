@@ -36,6 +36,7 @@ def build_boards(events: Optional[List[Dict[str, Any]]], cfg: Dict[str, Any], to
             "date": d.isoformat(),
             "days_until": (d - today).days,
             "note": e.get("note"),
+            "source_url": e.get("source_url"),
         })
 
     rows.sort(key=lambda r: r["date"])

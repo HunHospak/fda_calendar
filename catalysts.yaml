@@ -8,6 +8,7 @@
 #   event_type: PDUFA | AdComm | Readout | Other
 #   date:       YYYY-MM-DD
 #   note:       short description
+#   source_url: issuer disclosure, SEC filing or official FDA notice
 #
 # Start empty (feed publishes as "partial" until you add real dates). Example format below:
 #
@@ -18,4 +19,34 @@
 #     date: "2026-09-30"
 #     note: "PDUFA target action date"
 
-events: []
+events:
+  - ticker: VNDA
+    drug: Quimilza
+    event_type: PDUFA
+    date: "2026-12-12"
+    note: "Target action date reported by Vanda."
+    source_url: "https://www.sec.gov/Archives/edgar/data/1347178/000162828026067886/vnda8-k10282026exhibit991.htm"
+  - ticker: PRAX
+    drug: Relutrigine
+    event_type: PDUFA
+    date: "2026-12-27"
+    note: "Target action date reported by Praxis."
+    source_url: "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/praxisq32026pr.htm"
+  - ticker: PRAX
+    drug: Ulixacaltamide
+    event_type: PDUFA
+    date: "2027-01-29"
+    note: "Target action date reported by Praxis."
+    source_url: "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/praxisq32026pr.htm"
+  - ticker: PVLA
+    drug: QTORIN rapamycin
+    event_type: PDUFA
+    date: "2027-02-28"
+    note: "Priority review target action date reported by Palvella."
+    source_url: "https://www.sec.gov/Archives/edgar/data/1583648/000119312526448594/pvla-ex99_1.htm"
+  - ticker: VRTX
+    drug: Povetacicept
+    event_type: PDUFA
+    date: "2027-02-28"
+    note: "Revised target action date, no later than February 28, as reported by Vertex."
+    source_url: "https://investors.vrtx.com/news-releases/news-release-details/vertex-announces-extension-pdufa-target-action-date-three-months"
