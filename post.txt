@@ -1,7 +1,7 @@
-FDA catalysts — next 180d (2026-11-27)
-  2026-12-12  VNDA PDUFA  (15d)
-  2026-12-27  PRAX PDUFA  (30d)
-  2027-01-29  PRAX PDUFA  (63d)
-  2027-02-28  PVLA PDUFA  (93d)
-  2027-02-28  VRTX PDUFA  (93d)
+FDA catalysts — next 180d (2026-11-28)
+  2026-12-12  VNDA PDUFA  (14d)
+  2026-12-27  PRAX PDUFA  (29d)
+  2027-01-29  PRAX PDUFA  (62d)
+  2027-02-28  PVLA PDUFA  (92d)
+  2027-02-28  VRTX PDUFA  (92d)
 Curated regulatory calendar · not investment advice · arkenlabs.eu

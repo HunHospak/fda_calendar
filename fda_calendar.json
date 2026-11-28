@@ -1,11 +1,11 @@
 {
   "service": "fda_calendar",
   "schema_version": "1.0",
-  "generated_at": "2026-11-27T04:31:55+00:00",
+  "generated_at": "2026-11-28T04:14:45+00:00",
   "status": "active",
   "ttl_hours": 72,
   "data": {
-    "as_of": "2026-11-27",
+    "as_of": "2026-11-28",
     "horizon_days": 180,
     "upcoming_count": 5,
     "upcoming": [
@@ -14,7 +14,7 @@
         "drug": "Quimilza",
         "event_type": "PDUFA",
         "date": "2026-12-12",
-        "days_until": 15,
+        "days_until": 14,
         "note": "Target action date reported by Vanda.",
         "source_url": "https://www.sec.gov/Archives/edgar/data/1347178/000162828026067886/vnda8-k10282026exhibit991.htm"
       },
@@ -23,7 +23,7 @@
         "drug": "Relutrigine",
         "event_type": "PDUFA",
         "date": "2026-12-27",
-        "days_until": 30,
+        "days_until": 29,
         "note": "Target action date reported by Praxis.",
         "source_url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/praxisq32026pr.htm"
       },
@@ -32,7 +32,7 @@
         "drug": "Ulixacaltamide",
         "event_type": "PDUFA",
         "date": "2027-01-29",
-        "days_until": 63,
+        "days_until": 62,
         "note": "Target action date reported by Praxis.",
         "source_url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/praxisq32026pr.htm"
       },
@@ -41,7 +41,7 @@
         "drug": "QTORIN rapamycin",
         "event_type": "PDUFA",
         "date": "2027-02-28",
-        "days_until": 93,
+        "days_until": 92,
         "note": "Priority review target action date reported by Palvella.",
         "source_url": "https://www.sec.gov/Archives/edgar/data/1583648/000119312526448594/pvla-ex99_1.htm"
       },
@@ -50,7 +50,7 @@
         "drug": "Povetacicept",
         "event_type": "PDUFA",
         "date": "2027-02-28",
-        "days_until": 93,
+        "days_until": 92,
         "note": "Revised target action date, no later than February 28, as reported by Vertex.",
         "source_url": "https://investors.vrtx.com/news-releases/news-release-details/vertex-announces-extension-pdufa-target-action-date-three-months"
       }
@@ -59,22 +59,22 @@
       "VNDA": {
         "date": "2026-12-12",
         "event_type": "PDUFA",
-        "days_until": 15
+        "days_until": 14
       },
       "PRAX": {
         "date": "2026-12-27",
         "event_type": "PDUFA",
-        "days_until": 30
+        "days_until": 29
       },
       "PVLA": {
         "date": "2027-02-28",
         "event_type": "PDUFA",
-        "days_until": 93
+        "days_until": 92
       },
       "VRTX": {
         "date": "2027-02-28",
         "event_type": "PDUFA",
-        "days_until": 93
+        "days_until": 92
       }
     },
     "disclaimer": "Upcoming regulatory catalysts (curated). Informational only, not investment advice."
